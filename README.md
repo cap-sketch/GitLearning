@@ -1,2 +1,2 @@
-# GitLearning
-Creating a git repository.
+# GitLearing through changes.
+Creating a git repository and making changes.
